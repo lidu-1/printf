@@ -101,3 +101,4 @@ void convert_fmt_s(va_list *args_list, fmt_info_t *fmt_info)
 			_putchar(' ');
 	}
 }
+
